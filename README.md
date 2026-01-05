@@ -1,6 +1,6 @@
 # 👋 Hi, I'm SHUBHAM
 
-## 📊 Data Analyst | 🐍 Python & SQL Enthusiast | ☕ Java Developer | 🔥 PySpark Practitioner | ⚛️ React & React‑Native Developer | 📖 Storyteller with Data | 🌐 Web Developer
+#### 📊 Data Analyst | 🐍 Python & SQL Enthusiast | ☕ Java Developer | 🔥 PySpark Practitioner | ⚛️ React & React‑Native Developer | 📖 Storyteller with Data | 🌐 Web Developer
 
 - Passionate about transforming raw data into meaningful insights  
 - Skilled in Python, SQL, Java, PySpark, React, React‑Native, and modern visualization tools  
