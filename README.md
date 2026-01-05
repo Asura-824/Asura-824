@@ -1,30 +1,46 @@
-# 👋 Hi, I'm Shubham! 
+# 👋 Hi, I'm SHUBHAM
 
-**Data Analyst | Python & SQL Enthusiast | Insightful Storyteller with Data**
+## 📊 Data Analyst | 🐍 Python & SQL Enthusiast | ☕ Java Developer | 🔥 PySpark Practitioner | ⚛️ React & React‑Native Developer | 📖 Storyteller with Data | 🌐 Web Developer
+
+- Passionate about transforming raw data into meaningful insights  
+- Skilled in Python, SQL, Java, PySpark, React, React‑Native, and modern visualization tools  
+- Dedicated to making data clear, accessible, and impactful  
 
 ---
 
-Welcome to my GitHub profile! I’m passionate about uncovering insights from complex datasets and presenting them with clarity. My toolbox includes Python, Pandas, NumPy, Matplotlib, Seaborn, SQL (PostgreSQL, Oracle), R programming, and a dash of web development (HTML, CSS, JavaScript).
+### 🌟 Welcome to my GitHub profile!
+I love uncovering insights from complex datasets and presenting them with clarity.  
+My toolbox includes:  
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
+- **SQL** (PostgreSQL, Oracle)  
+- **Java** (Core Java, Swing, JDBC)  
+- **PySpark** (Big Data processing, distributed computing)  
+- **React & React‑Native** (Frontend + Mobile app development)  
+- **R Programming**  
+- A dash of **Web Development** (HTML, CSS, JavaScript)  
 
+---
 ## 🚀 Top Projects
+- [**RJ-College-Attendance-Portal**](https://github.com/Asura-824/RJAttendPortal)
+The RJ College Attendance Portal is a Java Swing–based system with secure login and PostgreSQL integration for managing student and staff attendance.
+
 - [**Electric-Vehicle-WA**](https://github.com/shubh645/Electric-Vehicle-WA)                                        
 PySpark EDA: Analyzes WA EV data with PySpark for cleaning and aggregation. ​Visualization: Uses pandas/seaborn to plot top EV brands and models. Spark ML Forecast: Employs Linear Regression (Spark ML) to forecast future Tesla registrations.
 
 - [**IND-Census-2011--analysis**](https://github.com/shubh645/IND-Census-2011--analysis)  
   In-depth analysis of the 2011 Indian Census, exploring population trends, demographics, and social insights with data visualization.
-
-- [**Spotify-analysis**](https://github.com/shubh645/Spotify-analysis)  
-  Data-driven exploration of Spotify’s music trends, genres, and user listening habits using Python and visualization libraries.
-
-- [**Netflix-analysis**](https://github.com/shubh645/Netflix-analysis)  
-  Analytical deep-dive into Netflix’s content library—genre distribution, ratings, and trends, powered by Pandas and Matplotlib.
-
-- [**Covid-19-analysis**](https://github.com/shubh645/Covid-19-analysis)  
-  Comprehensive analysis of the Covid-19 pandemic using publicly available Kaggle datasets. Explores key trends and patterns with Python libraries (Pandas, NumPy), and presents findings through insightful visualizations in Matplotlib.
   
 - [**SHUBHAM-s-CodeQuotient**](https://github.com/Asura-824/CodeQuotient)  
   A showcase of my coding journey—projects, challenges, and solutions across data analysis along with the tutorials, free compiler and datasets through web technology.
 
+- [**Fcae-Detection**](https://github.com/Asura-824/Face-detection)
+Detect faces in images using Python + OpenCV. Convert to grayscale, apply Haar Cascade, highlight faces. Simple, fast, and ready for real‑time extension.
+
+- [**Rock-paper-Scissor Game**](https://github.com/Asura-824/Rock-Paper-Scissor)
+Interactive Game built with Python & JavaScript.Python powers logic and console play, JavaScript brings browser‑based interactivity. Fun, engaging, and cross‑platform for all audiences.
+
+- [**SWIS-Foundation**]()
+Modified NGO platform: now more responsive, accessible, and engaging, with a clear, user‑friendly design for stronger outreach.
 ---
 
 ## 🛠️ Skills & Tools
