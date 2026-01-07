@@ -1,6 +1,6 @@
 # 👋 Hi, I'm SHUBHAM
 <div align="center">
-  <img src="myimage.jpg" 
+  <img src="Myimage.png" 
        alt="My image" 
        width="200"
        style="border-radius:100px"
