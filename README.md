@@ -2,9 +2,9 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/201357751?s=400&u=11b1d300260d5195c7e7889a87f3a95f1da4a4fc&v=4&h=180&w=180&fit=cover&mask=circle&maxage=7d" 
        alt="My image" 
-       width="200"
+       width="180"
        style="border-radius:100px"
-       height="200"
+       height="180"
     />
 </div>
 
