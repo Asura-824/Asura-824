@@ -3,10 +3,11 @@
   <img src="myimage.jpg" 
        alt="My image" 
        width="200"
-       style="border-radius:50%"
+       style="border-radius:15px"
        height="200"
     />
 </div>
+
 #### 📊 Data Analyst | 🐍 Python & SQL Enthusiast | ☕ Java Developer | 🔥 PySpark Practitioner | ⚛️ React & React‑Native Developer | 📖 Storyteller with Data | 🌐 Web Developer
 
 - Passionate about transforming raw data into meaningful insights  
