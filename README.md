@@ -1,5 +1,5 @@
 # 👋 Hi, I'm SHUBHAM
-<div style="text-align: center; border: 2px solid #ccc; padding: 10px; background-color: #f9f9f9;">
+<div align="center">
   <img src="myimage.jpg" 
        alt="My image" 
        width="200"
