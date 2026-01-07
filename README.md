@@ -2,7 +2,10 @@
 <div style="text-align: center; border: 2px solid #ccc; padding: 10px; background-color: #f9f9f9;">
   <img src="myimage.jpg" 
        alt="My image" 
-       width="600" />
+       width="200"
+       style="border-radius:50%"
+       height="200"
+    />
 </div>
 #### 📊 Data Analyst | 🐍 Python & SQL Enthusiast | ☕ Java Developer | 🔥 PySpark Practitioner | ⚛️ React & React‑Native Developer | 📖 Storyteller with Data | 🌐 Web Developer
 
