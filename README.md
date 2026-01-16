@@ -1,76 +1,71 @@
-# 👋 Hi, I'm SHUBHAM
+# 👋 Hi, I'm SHUBHAM  
 
-#### 📊 Data Analyst | 🐍 Python & SQL Enthusiast | ☕ Java Developer | 🔥 PySpark Practitioner | ⚛️ React & React‑Native Developer | 📖 Storyteller with Data | 🌐 Web Developer
+#### 📊 Data Analyst | 🐍 Python & SQL Enthusiast | ☕ Java Developer | 🔥 PySpark Practitioner | ⚛️ React & React‑Native Developer | 📖 Data Storyteller | 🌐 Web Developer  
 
-- Passionate about transforming raw data into meaningful insights  
-- Skilled in Python, SQL, Java, PySpark, React, React‑Native, and modern visualization tools  
-- Dedicated to making data clear, accessible, and impactful  
-
----
-
-### 🌟 Welcome to my GitHub profile!
-I love uncovering insights from complex datasets and presenting them with clarity.  
-My toolbox includes:  
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-- **SQL** (PostgreSQL, Oracle)  
-- **Java** (Core Java, Swing, JDBC)  
-- **PySpark** (Big Data processing, distributed computing)  
-- **React & React‑Native** (Frontend + Mobile app development)  
-- **R Programming**  
-- A dash of **Web Development** (HTML, CSS, JavaScript)  
-
----
-## 🚀 Top Projects
-- [**RJ-College-Attendance-Portal**](https://github.com/Asura-824/RJAttendPortal)
-The RJ College Attendance Portal is a Java Swing–based system with secure login and PostgreSQL integration for managing student and staff attendance.
-
-- [**Electric-Vehicle-WA**](https://github.com/shubh645/Electric-Vehicle-WA)                                        
-PySpark EDA: Analyzes WA EV data with PySpark for cleaning and aggregation. ​Visualization: Uses pandas/seaborn to plot top EV brands and models. Spark ML Forecast: Employs Linear Regression (Spark ML) to forecast future Tesla registrations.
-
-- [**IND-Census-2011--analysis**](https://github.com/shubh645/IND-Census-2011--analysis)  
-  In-depth analysis of the 2011 Indian Census, exploring population trends, demographics, and social insights with data visualization.
-  
-- [**SHUBHAM-s-CodeQuotient**](https://github.com/Asura-824/CodeQuotient)  
-  A showcase of my coding journey—projects, challenges, and solutions across data analysis along with the tutorials, free compiler and datasets through web technology.
-
-- [**Face-Detection**](https://github.com/Asura-824/Face-detection)
-Detect faces in images using Python + OpenCV. Convert to grayscale, apply Haar Cascade, highlight faces. Simple, fast, and ready for real‑time extension.
-
-- [**Rock-paper-Scissor Game**](https://github.com/Asura-824/Rock-Paper-Scissor)
-Interactive Game built with Python & JavaScript.Python powers logic and console play, JavaScript brings browser‑based interactivity. Fun, engaging, and cross‑platform for all audiences.
-
-- [**SWIS-Foundation**]()
-Modified NGO platform: now more responsive, accessible, and engaging, with a clear, user‑friendly design for stronger outreach.
----
-
-## 🛠️ Skills & Tools
-
-- **Languages & Libraries:** Python, Java, PySpark, Pandas, NumPy, Matplotlib, Seaborn, R
-- **Databases:** SQL, PostgreSQL, Oracle Database
-- **Web:** HTML, CSS, JavaScript
-- **Other:** Data visualization with Power Bi & Tableau, storytelling, problem solving
+- Turning **raw data into actionable insights**  
+- Skilled across **Python, SQL, Java, PySpark, React, React‑Native, R, and modern visualization tools**  
+- Focused on making data **clear, accessible, and impactful**  
 
 ---
 
-## 📊 About Me
-
-I love transforming raw data into actionable insights and visual stories. Whether it's analyzing census data or streaming trends, I believe in the power of data to inform and inspire.
-
----
-
-## 🌐 Connect with Me
-
-- Whatsapp: +918591577833
-- Email: shubham85kadam@gmail.com
-- College Mail: shubhamkadamcs5284@rjcollege.edu.in
-- Linkedin: https://www.linkedin.com/in/shubham-kadam-b8856031a/
+## 🌟 Welcome to My GitHub  
+I thrive on exploring complex datasets and presenting them with clarity and creativity.  
 
 ---
 
-## 🏅 Achievements & Certifications
+## 🚀 Featured Projects  
 
-- Data Analytics Certification - https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/
+- [**RJ College Attendance Portal**](https://github.com/Asura-824/RJAttendPortal)  
+  Java Swing–based system with secure login and PostgreSQL integration for managing student and staff attendance.  
+
+- [**Electric Vehicle WA**](https://github.com/shubh645/Electric-Vehicle-WA)  
+  PySpark EDA on WA EV data → cleaning, aggregation, visualization with pandas/seaborn, plus Spark ML forecasting for Tesla registrations.  
+
+- [**Indian Census 2011 Analysis**](https://github.com/shubh645/IND-Census-2011--analysis)  
+  Deep dive into population trends, demographics, and social insights using data visualization.  
+
+- [**CodeQuotient Showcase**](https://github.com/Asura-824/CodeQuotient)  
+  My coding journey: projects, challenges, tutorials, free compiler, and datasets built with web technologies.  
+
+- [**Face Detection**](https://github.com/Asura-824/Face-detection)  
+  Python + OpenCV project using Haar Cascade to detect and highlight faces in real time.  
+
+- [**Rock-Paper-Scissor Game**](https://github.com/Asura-824/Rock-Paper-Scissor)  
+  Interactive game powered by Python (logic) and JavaScript (browser play). Fun, engaging, and cross‑platform.  
+
+- **SWIS Foundation**  
+  Revamped NGO platform → responsive, accessible, and user‑friendly design for stronger outreach.  
 
 ---
 
-_Thanks for visiting my GitHub! Feel free to explore my projects or reach out if you share a passion for data._
+## 🛠️ Skills & Toolkit  
+
+- **Languages & Libraries:** Python (Pandas, NumPy, Matplotlib, Seaborn), Java (Core, Swing, JDBC), PySpark, R  
+- **Databases:** SQL, PostgreSQL, Oracle  
+- **Web Development:** HTML, CSS, JavaScript, React, React‑Native  
+- **Visualization Tools:** Power BI, Tableau  
+- **Strengths:** Data storytelling, problem solving, interactive dashboards  
+
+---
+
+## 📊 About Me  
+I believe in the **power of data to inform and inspire**. From census analysis to EV adoption trends, I enjoy transforming numbers into narratives that drive decisions.  
+
+---
+
+## 🌐 Connect with Me  
+
+- 📱 Whatsapp: +91 8591577833  
+- 📧 Email: shubham85kadam@gmail.com  
+- 🎓 College Mail: shubhamkadamcs5284@rjcollege.edu.in  
+- 🔗 LinkedIn: [Shubham Kadam](https://www.linkedin.com/in/shubham-kadam-b8856031a/)  
+
+---
+
+## 🏅 Achievements & Certifications  
+
+- [Data Analytics Certification](https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/)  
+
+---
+
+✨ _Thanks for stopping by! Explore my projects, and let’s connect if you share a passion for data._
