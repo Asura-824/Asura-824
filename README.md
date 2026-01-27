@@ -78,4 +78,5 @@ Every repository reflects my journey of combining **technical rigor with creativ
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asura-824&theme=react-dark&border_radius=10">
 </div>
 
+---
 ✨ _Thanks for stopping by! Explore my projects, and let’s connect if you share a passion for data._
