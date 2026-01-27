@@ -92,12 +92,12 @@ Every repository reflects my journey of combining **technical rigor with creativ
 [![Power BI](https://img.shields.io/badge/PowerBI-📈-yellow?style=for-the-badge&logo=powerbi)](https://powerbi.microsoft.com/)  [![Tableau](https://img.shields.io/badge/Tableau-📊-blue?style=for-the-badge&logo=tableau)](https://www.tableau.com/)  
 
 ---
-## 🌐 Connect with Me  
+## 📞 Contact Me  
 
-- 📱 Whatsapp: +91 8591577833  
-- 📧 Email: shubham85kadam@gmail.com  
-- 🎓 College Mail: shubhamkadamcs5284@rjcollege.edu.in  
-- 🔗 LinkedIn: [Shubham Kadam](https://www.linkedin.com/in/shubham-kadam-b8856031a/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubham-kadam-b8856031a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDrYMSIRFQeuRzoobVQ4G0g%3D%3D)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Asura-824)  
+[![Email](https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail)](shubham85kadam@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-🌐-green?style=for-the-badge&logo=firefox)](https://asurashubh.netlify.app)  
 
 ---
 
