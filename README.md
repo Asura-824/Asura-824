@@ -71,12 +71,11 @@ Every repository reflects my journey of combining **technical rigor with creativ
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asura-824&show_icons=true&theme=radical&border_radius=10)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asura-824&layout=compact&theme=radical&border_radius=10)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asura-824&theme=radical&border_radius=10)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asura-824&layout=compact)
+<div align="center">
+  <h1>GitHub Stats</h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ausra-824&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ausra-824&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asura-824&theme=react-dark&border_radius=10">
+</div>
 
 ✨ _Thanks for stopping by! Explore my projects, and let’s connect if you share a passion for data._
