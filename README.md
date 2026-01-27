@@ -7,9 +7,6 @@
 - Focused on making data **clear, accessible, and impactful**  
 
 ---
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asura-824&theme=radical&border_radius=10" alt="GitHub Streak" />
-</div>
 
 ## 🌟 Welcome to My GitHub  
 This is my creative and technical playground 🚀. Here you’ll find:  
