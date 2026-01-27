@@ -2,6 +2,13 @@
 
 ![Profile](https://img.shields.io/badge/dynamic/json?color=blue&label=Avatar&query=$.login&url=https://api.github.com/users/Asura-824&logo=github&style=for-the-badge)
 
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/201357751?v=4" 
+       alt="Ausra-824" 
+       width="200" 
+       height="200" 
+       style="border-radius:50%;" />
+</div>
 #### 📊 Data Analyst | 🐍 Python & SQL Enthusiast | ☕ Java Developer | 🔥 PySpark Practitioner | ⚛️ React & React‑Native Developer | 📖 Data Storyteller | 🌐 Web Developer  
 
 - Turning **raw data into actionable insights**  
