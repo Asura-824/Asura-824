@@ -1,14 +1,6 @@
 # 👋 Hi, I'm SHUBHAM  
 
-<div align="center">
-  <img 
-    src="https://avatars.githubusercontent.com/u/201357751?s=400&u=a97cd351d841dfd0fca99ffe961fbf42d4531130&v=4" 
-    alt="Shubham Kadam" 
-    width="200" 
-    height="200" 
-    style="clip-path: circle(50%);" 
-  />
-</div>
+![Profile](https://img.shields.io/badge/dynamic/json?color=blue&label=Avatar&query=$.login&url=https://api.github.com/users/Ausra-824&logo=github&style=for-the-badge)
 
 #### 📊 Data Analyst | 🐍 Python & SQL Enthusiast | ☕ Java Developer | 🔥 PySpark Practitioner | ⚛️ React & React‑Native Developer | 📖 Data Storyteller | 🌐 Web Developer  
 
