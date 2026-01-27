@@ -1,10 +1,10 @@
-# 👋 Hi, I'm SHUBHAM  
+# 👋Hi, I'm Shubham
 
-#### 📊 Data Analyst | 🐍 Python & SQL Enthusiast | ☕ Java Developer | 🔥 PySpark Practitioner | ⚛️ React & React‑Native Developer | 📖 Data Storyteller | 🌐 Web Developer  
+### 📊 Data Analyst | 🐍 Python & SQL Enthusiast | ☕ Java Developer | 🔥 PySpark Practitioner | ⚛️ React & React‑Native Developer | 📖 Data Storyteller | 🌐 Web Developer  
 
-- Turning **raw data into actionable insights**  
-- Skilled across **Python, SQL, Java, PySpark, React, React‑Native, R, and modern visualization tools**  
-- Focused on making data **clear, accessible, and impactful**  
+Turning **raw data into actionable insights**  
+Skilled across **Python, SQL, Java, PySpark, React, React‑Native, R, and modern visualization tools**  
+Focused on making data **clear, accessible, and impactful**  
 
 ---
 
@@ -20,7 +20,6 @@ This is my creative and technical playground 🚀. Here you’ll find:
 Every repository reflects my journey of combining **technical rigor with creative communication**.  
 
 ---
-
 ## 🚀 Featured Projects  
 
 - [**RJ College Attendance Portal**](https://github.com/Asura-824/RJAttendPortal)  
@@ -45,17 +44,31 @@ Every repository reflects my journey of combining **technical rigor with creativ
   Revamped NGO platform → responsive, accessible, and user‑friendly design for stronger outreach.  
 
 ---
-
 ## 🛠️ Skills & Toolkit  
 
-- **Languages & Libraries:** Python (Pandas, NumPy, Matplotlib, Seaborn), Java (Core, Swing, JDBC), PySpark, R  
-- **Databases:** SQL, PostgreSQL, Oracle  
-- **Web Development:** HTML, CSS, JavaScript, React, React‑Native  
-- **Visualization Tools:** Power BI, Tableau  
-- **Strengths:** Data storytelling, problem solving, interactive dashboards  
+### 🚀 Languages & Libraries  
+[![Python](https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge&logo=python)](https://www.python.org/)  
+[![R](https://img.shields.io/badge/R-📊-lightblue?style=for-the-badge&logo=r)](https://www.r-project.org/)  
+[![Java](https://img.shields.io/badge/Java-☕-red?style=for-the-badge&logo=java)](https://www.java.com/)  
+[![PySpark](https://img.shields.io/badge/PySpark-🔥-orange?style=for-the-badge&logo=apachespark)](https://spark.apache.org/)  
+
+### 🗄️ Databases  
+[![SQL](https://img.shields.io/badge/SQL-🗂️-yellow?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)  
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-🐘-blue?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)  
+[![Oracle](https://img.shields.io/badge/Oracle-🔴-red?style=for-the-badge&logo=oracle)](https://www.oracle.com/)  
+
+### 🌐 Web Development  
+[![HTML](https://img.shields.io/badge/HTML-🌐-orange?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS](https://img.shields.io/badge/CSS-🎨-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-⚡-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![React](https://img.shields.io/badge/React-⚛️-blue?style=for-the-badge&logo=react)](https://reactjs.org/)  
+[![React Native](https://img.shields.io/badge/ReactNative-📱-purple?style=for-the-badge&logo=react)](https://reactnative.dev/)  
+
+### 📊 Visualization Tools  
+[![Power BI](https://img.shields.io/badge/PowerBI-📈-yellow?style=for-the-badge&logo=powerbi)](https://powerbi.microsoft.com/)  
+[![Tableau](https://img.shields.io/badge/Tableau-📊-blue?style=for-the-badge&logo=tableau)](https://www.tableau.com/)  
 
 ---
-
 ## 🌐 Connect with Me  
 
 - 📱 Whatsapp: +91 8591577833  
@@ -80,4 +93,6 @@ Every repository reflects my journey of combining **technical rigor with creativ
 
 ---
 
-✨ _Thanks for stopping by! Explore my projects, and let’s connect if you share a passion for data._
+
+
+✨ _Thanks for stopping by! Explore my projects, and let’s connect if you share a passion for data._  
