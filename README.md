@@ -65,7 +65,6 @@ Every repository reflects my journey of combining **technical rigor with creativ
 - Collection of projects, tutorials, challenges & datasets  
 - Includes a free compiler for learners  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asura-824&show_icons=true&theme=radical&border_radius=10)
 
 #### 👤 Face Detection  
 [![GitHub](https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github)](https://github.com/Asura-824/Face-detection)  
@@ -94,7 +93,6 @@ Every repository reflects my journey of combining **technical rigor with creativ
 - [Data Science Certification](https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/)
   
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asura-824&show_icons=true&theme=radical&border_radius=10)
 
 ### 📈 Developer Activity & GitHub Metrics
 
