@@ -111,8 +111,3 @@ Every repository reflects my journey of combining **technical rigor with creativ
 ---
 
 ✨ _Thanks for stopping by! Explore my projects, and let’s connect if you share a passion for data._  
-
-
-
-![Followers](https://img.shields.io/github/followers/Asura-824?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Asura-824?style=for-the-badge)
