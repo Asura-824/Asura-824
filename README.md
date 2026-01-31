@@ -104,6 +104,8 @@ Every repository reflects my journey of combining **technical rigor with creativ
 
 ---
 
+### 📞 Contact me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubham-kadam-b8856031a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDrYMSIRFQeuRzoobVQ4G0g%3D%3D)  [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Asura-824)  [![Email](https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail)](mailto:shubham85kadam@gmail.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-🌐-green?style=for-the-badge&logo=firefox)](https://asurashubh.netlify.app)  
 
 ---
