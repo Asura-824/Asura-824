@@ -7,6 +7,7 @@ Skilled across **Python, SQL, Java, PySpark, React, React‑Native, R, and moder
 Focused on making data **clear, accessible, and impactful** 
 
 ---
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asura-824&theme=default)
 
 ### 🌟 Welcome to My GitHub  
 This is my creative and technical playground 🚀. Here you’ll find:  
