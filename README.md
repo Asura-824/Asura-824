@@ -7,7 +7,6 @@ Skilled across **Python, SQL, Java, PySpark, React, React‑Native, R, and moder
 Focused on making data **clear, accessible, and impactful** 
 
 ---
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asura-824&theme=default)
 
 ### 🌟 Welcome to My GitHub  
 This is my creative and technical playground 🚀. Here you’ll find:  
@@ -100,6 +99,9 @@ Every repository reflects my journey of combining **technical rigor with creativ
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asura-824&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asura-824&layout=compact&theme=radical&border_radius=10" alt="Top Languages" /> 
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asura-824&theme=default" alt="Top Languages" />
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asura-824&theme=react-dark" style="border-radius:20px;" />
 </div>
 
