@@ -99,11 +99,6 @@ Every repository reflects my journey of combining **technical rigor with creativ
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asura-824&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asura-824&layout=compact&theme=radical&border_radius=10" alt="Top Languages" /> 
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asura-824&theme=blue" alt="Top Languages" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asura-824&theme=blue" alt="Top Languages" />
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asura-824&theme=react-dark" style="border-radius:20px;" />
 </div>
 
