@@ -4,84 +4,167 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding GIF"/>
 </p>
 
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&center=true&lines=Data+Analyst+%7C+Python+%26+SQL+Enthusiast;Java+Developer+%7C+PySpark+Practitioner;React+%26+React-Native+Developer;Data+Storyteller+%7C+Web+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&center=true&lines=Data+Analyst+%7C+Python+%26+SQL+Enthusiast;Full+Stack+Developer+%7C+React+%26+TypeScript;Building+Data-Driven+Solutions" />
 </p>
 
 <p align="center">
 💡 <strong>Turning raw data into actionable insights</strong> <br>
-🎯 <strong>Skilled across Python, SQL, Java, PySpark, React, React‑Native, R, and modern visualization tools</strong> <br>
-📌 <strong>Focused on making data clear, accessible, and impactful</strong>
+🎯 <strong>Python • Java • React • TypeScript • SQL • PySpark</strong> <br>
+📌 <strong>17+ Projects | Data Analyst | Full Stack Developer</strong>
 </p>
+
+---
+
+## 📊 Quick Stats
+
+- **17+ Projects** in Data Analysis, Web Development & Automation
+- **3+ Certifications** (Data Science, SQL, Generative AI)
+- **Languages**: Python, Java, JavaScript, TypeScript, R, SQL
+- **Specialization**: Data Analytics, Backend Development, Full Stack Web Applications
+- **Focus**: Making data accessible, scalable solutions, and modern web development
 
 ---
 
 ## 🛠️ Skills & Toolkit
 
-### 🚀 Languages & Libraries
-![Python](https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge&logo=python)  ![Java](https://img.shields.io/badge/Java-☕-red?style=for-the-badge&logo=java)  ![PySpark](https://img.shields.io/badge/PySpark-🔥-orange?style=for-the-badge&logo=apachespark)  ![Pandas](https://img.shields.io/badge/Pandas-🐼-darkblue?style=for-the-badge&logo=pandas)  ![NumPy](https://img.shields.io/badge/NumPy-🔢-lightblue?style=for-the-badge&logo=numpy)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-📈-green?style=for-the-badge&logo=plotly)  ![Seaborn](https://img.shields.io/badge/Seaborn-🌊-teal?style=for-the-badge&logo=plotly)  ![R](https://img.shields.io/badge/R-📊-lightblue?style=for-the-badge&logo=r)  
+### 🚀 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🗄️ Databases
-![SQL](https://img.shields.io/badge/SQL-🗂️-yellow?style=for-the-badge&logo=postgresql)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-🐘-blue?style=for-the-badge&logo=postgresql)  ![Oracle](https://img.shields.io/badge/Oracle-🔴-red?style=for-the-badge&logo=oracle)  
+### 🗄️ Databases & Big Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-🌐-orange?style=for-the-badge&logo=html5)  ![CSS](https://img.shields.io/badge/CSS-🎨-blue?style=for-the-badge&logo=css3)  ![JavaScript](https://img.shields.io/badge/JavaScript-⚡-yellow?style=for-the-badge&logo=javascript)  ![React](https://img.shields.io/badge/React-⚛️-blue?style=for-the-badge&logo=react)  ![React Native](https://img.shields.io/badge/ReactNative-📱-purple?style=for-the-badge&logo=react)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-💠-cyan?style=for-the-badge&logo=tailwindcss)  
+### 🌐 Frontend & Web Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 📊 Visualization Tools
-![Power BI](https://img.shields.io/badge/PowerBI-📈-yellow?style=for-the-badge&logo=powerbi)  ![Tableau](https://img.shields.io/badge/Tableau-📊-blue?style=for-the-badge&logo=tableau)  
+### 📊 Data Visualization & Tools
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0C55A2?style=for-the-badge&logo=python&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Tech Stack | Highlights |
-|---------|------------|------------|
-| [🎓 RJ College Attendance Portal](https://github.com/ShubhamK-0904/RJAttendPortal) | Java Swing, PostgreSQL | Secure login, DB integration, efficient attendance management |
-| [🚗 Electric Vehicle WA](https://github.com/ShubhamK-0904/Electric-Vehicle-WA) | PySpark, Pandas, Seaborn, Spark ML | EDA on WA EV dataset, Tesla registration forecasting |
-| [📊 Indian Census 2011 Analysis](https://github.com/ShubhamK-0904/IND-Census-2011--analysis) | Python, Visualization Libraries | Demographic insights with clear visualizations |
-| [🌍 SWIS Foundation](https://github.com/ShubhamK-0904/SWIS-Institute) | HTML, CSS, JavaScript | Revamped NGO platform, responsive design, accessibility |
+| Project | Description | Tech Stack | Highlights |
+|---------|-------------|-----------|-----------|
+| [🎓 RJ College Attendance Portal](https://github.com/ShubhamK-0904/RJAttendPortal) | Role-based attendance management system with secure login | Java Swing, PostgreSQL, JDBC | Database integration, GUI design, secure authentication |
+| [🚗 Electric Vehicle Analysis WA](https://github.com/ShubhamK-0904/Electric-Vehicle-WA) | Comprehensive EV population analysis in Washington state | PySpark, Pandas, Seaborn, Spark ML | EDA, Tesla forecasting, data insights |
+| [📊 Indian Census 2011 Analysis](https://github.com/ShubhamK-0904/IND-Census-2011--analysis) | Demographic insights from 2011 Census data | Python, Pandas, Matplotlib, Seaborn | Population analysis, state-wise comparisons, visualizations |
+| [🌍 SWIS Foundation](https://github.com/ShubhamK-0904/SWIS-Institute) | Educational NGO platform with responsive design | HTML, CSS, JavaScript | Responsive UI, accessibility, modern design |
+| [🎬 Netflix Data Analysis](https://github.com/ShubhamK-0904/Netflix-analysis) | User behavior and subscription analysis | Python, Pandas, Numpy, Matplotlib | Customer demographics, churn patterns, insights |
+| [💻 Animate Glow Shine](https://github.com/ShubhamK-0904/animate-glow-shine) | Modern portfolio platform | React, TypeScript, Vite, Tailwind CSS | Interactive animations, responsive design |
+| [🦠 COVID-19 Data Analysis](https://github.com/ShubhamK-0904/Covid-19-analysis) | India COVID-19 case and testing analysis | Python, Pandas, Jupyter, Visualization | Trend analysis, state-wise insights, statistical analysis |
+| [🎵 Spotify Data Analysis](https://github.com/ShubhamK-0904/Spotify-analysis) | User listening habits and track analysis | Python, Pandas, Seaborn, Matplotlib | EDA, user behavior, music trends |
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications & Achievements
 
-| Badge | Certification | Provider | Link |
+| Badge | Certification | Provider | Year |
 |-------|---------------|----------|------|
-| ![Data Science](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge&logo=google-scholar) | **Data Science Certification** | Internshala Trainings | [🔗 View Certificate](https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/) |
-| ![Generative AI](https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge&logo=googlecloud) | **Introduction to Generative AI Studio** | Simplilearn | [🔗 View Certificate](https://simpli-web.app.link/e/oei0cyAav1b) |
-| ![SQL](https://img.shields.io/badge/SQL%20for%20Data%20Analysis-green?style=for-the-badge&logo=postgresql) | **SQL for Data Analysis** | LinkedIn Learning | [🔗 View Certificate](https://www.linkedin.com/learning/certificates/801e23a82c6419cf0bc866fb309f72aea7eb1b12b50bbc3507cdbb8de8abc9fa?trk=share_certificate) |
+| 🏆 | **Data Science Certification** | Internshala Trainings | 2024 |
+| 🤖 | **Introduction to Generative AI Studio** | Simplilearn | 2024 |
+| 💾 | **SQL for Data Analysis** | LinkedIn Learning | 2024 |
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamK-0904&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamK-0904&theme=dark&border=2&border_radius=10&stroke=white" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamK-0904&show_icons=true&theme=radical&border_radius=10" alt="GitHub Overall Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamK-0904&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamK-0904&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" width="48%"/>
 </p>
 
-
-## 📞 Let's Connect
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubham-kadam-b8856031a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/ShubhamK-0904" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:shubham85kadam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://shubhamkadam-portfolio.lovable.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-🌐-green?style=for-the-badge&logo=firefox" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ShubhamK-0904&color=blue&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamK-0904&theme=dark&border=2&border_radius=10" alt="GitHub Streak Stats" width="60%"/>
 </p>
 
 ---
 
-✨ _Thanks for stopping by! Dive into my projects, explore the dashboards, and let’s collaborate if you share a passion for data._
+## 🎯 What I'm Good At
+
+- **Data Analysis & Visualization**: EDA, statistical analysis, creating compelling visualizations with Tableau, Power BI, Matplotlib, Seaborn
+- **Backend Development**: Python, Java, SQL, database design, API development
+- **Frontend Development**: React, TypeScript, responsive design, modern UI/UX with Tailwind CSS
+- **Big Data Processing**: PySpark, ETL pipelines, data cleaning and transformation
+- **Full Stack Development**: Building complete applications from database to UI
+- **Problem Solving**: Writing efficient, clean, and maintainable code
+
+---
+
+## 💡 Recent Focus Areas
+
+- 📊 Advanced data analytics and business intelligence
+- 🤖 Generative AI and machine learning applications
+- ⚛️ Building scalable React applications
+- 🔍 Exploratory data analysis and insights generation
+- 🗂️ Database optimization and SQL performance tuning
+
+---
+
+## 📞 Let's Connect & Collaborate
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-kadam-b8856031a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ShubhamK-0904" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:shubham85kadam@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://shubhamkadam-portfolio.lovable.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShubhamK-0904&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
+
+---
+
+## 🤝 Open to Opportunities
+
+I'm actively looking for:
+- 💼 Full Stack Development roles
+- 📊 Data Analytics positions
+- 🔬 Data Science opportunities
+- 🚀 Collaborative open-source projects
+- 📚 Mentorship and learning opportunities
+
+Feel free to reach out if you'd like to collaborate, discuss projects, or just say hello!
+
+---
+
+<p align="center">
+  <strong>✨ Thanks for visiting my profile! Explore my projects, check out my dashboards, and let's build something amazing together. ✨</strong>
+</p>
+
+<p align="center">
+  Made with ❤️ by Shubham Kadam
+</p>
