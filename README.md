@@ -80,7 +80,6 @@
 | [📊 Indian Census 2011 Analysis](https://github.com/ShubhamK-0904/IND-Census-2011--analysis) | Demographic insights from 2011 Census data | Python, Pandas, Matplotlib, Seaborn | Population analysis, state-wise comparisons, visualizations |
 | [🌍 SWIS Foundation](https://github.com/ShubhamK-0904/SWIS-Institute) | Educational NGO platform with responsive design | HTML, CSS, JavaScript | Responsive UI, accessibility, modern design |
 | [🎬 Netflix Data Analysis](https://github.com/ShubhamK-0904/Netflix-analysis) | User behavior and subscription analysis | Python, Pandas, Numpy, Matplotlib | Customer demographics, churn patterns, insights |
-| [💻 Animate Glow Shine](https://github.com/ShubhamK-0904/animate-glow-shine) | Modern portfolio platform | React, TypeScript, Vite, Tailwind CSS | Interactive animations, responsive design |
 | [🦠 COVID-19 Data Analysis](https://github.com/ShubhamK-0904/Covid-19-analysis) | India COVID-19 case and testing analysis | Python, Pandas, Jupyter, Visualization | Trend analysis, state-wise insights, statistical analysis |
 | [🎵 Spotify Data Analysis](https://github.com/ShubhamK-0904/Spotify-analysis) | User listening habits and track analysis | Python, Pandas, Seaborn, Matplotlib | EDA, user behavior, music trends |
 
