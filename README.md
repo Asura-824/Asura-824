@@ -9,6 +9,11 @@
 </p>
 
 <p align="center">
+  <strong>🎯 Full Stack Developer | 📊 Data Analyst | 🔬 Python • SQL • Java • React</strong><br>
+  <em>Building data-driven solutions with modern tech stack | 17+ Projects | Certified in Data Science & Generative AI</em>
+</p>
+
+<p align="center">
 💡 <strong>Turning raw data into actionable insights</strong> <br>
 🎯 <strong>Python • Java • React • TypeScript • SQL • PySpark</strong> <br>
 📌 <strong>17+ Projects | Data Analyst | Full Stack Developer</strong>
