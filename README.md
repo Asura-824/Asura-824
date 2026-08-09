@@ -107,8 +107,8 @@
 | Badge | Certification | Provider | Year |
 |-------|---------------|----------|------|
 | 🏆 | **Data Science Certification** | Internshala Trainings | 2024 |
-| 🤖 | **Introduction to Generative AI Studio** | Simplilearn | 2024 |
-| 💾 | **SQL for Data Analysis** | LinkedIn Learning | 2024 |
+| 🤖 | **Introduction to Generative AI Studio** | Simplilearn | 2025 |
+| 💾 | **SQL for Data Analysis** | LinkedIn Learning | 2026 |
 
 ---
 
