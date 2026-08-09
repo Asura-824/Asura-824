@@ -10,24 +10,24 @@
 
 <p align="center">
   <strong>🎯 Full Stack Developer | 📊 Data Analyst | 🔬 Python • SQL • Java • React</strong><br>
-  <em>Building data-driven solutions with modern tech stack | 17+ Projects | Certified in Data Science & Generative AI</em>
+  <em>Building data-driven solutions with modern tech stack | 18+ Projects | Certified in Data Science & Generative AI</em>
 </p>
 
 <p align="center">
 💡 <strong>Turning raw data into actionable insights</strong> <br>
-🎯 <strong>Python • Java • React • TypeScript • SQL • PySpark</strong> <br>
-📌 <strong>17+ Projects | Data Analyst | Full Stack Developer</strong>
+🎯 <strong>Python • Java • React • TypeScript • SQL • PySpark • Kotlin</strong> <br>
+📌 <strong>18+ Projects | Data Analyst | Full Stack Developer | Mobile Developer</strong>
 </p>
 
 ---
 
 ## 📊 Quick Stats
 
-- **17+ Projects** in Data Analysis, Web Development & Automation
+- **18+ Projects** in Data Analysis, Web Development, Mobile Development & Automation
 - **3+ Certifications** (Data Science, SQL, Generative AI)
-- **Languages**: Python, Java, JavaScript, TypeScript, R, SQL
-- **Specialization**: Data Analytics, Backend Development, Full Stack Web Applications
-- **Focus**: Making data accessible, scalable solutions, and modern web development
+- **Languages**: Python, Java, JavaScript, TypeScript, R, SQL, Kotlin
+- **Specialization**: Data Analytics, Backend Development, Full Stack Web Applications, Android Mobile Development
+- **Focus**: Making data accessible, scalable solutions, modern web development, and mobile-first experiences
 
 ---
 
@@ -38,21 +38,37 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🗄️ Databases & Big Data
+### 🗄️ Databases & Cloud Platforms
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🌐 Frontend & Web Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 📱 Mobile Development (EduTrack)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Room Database](https://img.shields.io/badge/Room_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🔐 Authentication & Backend (EduTrack)
+![JWT Tokens](https://img.shields.io/badge/JWT_Tokens-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Supabase Backend](https://img.shields.io/badge/Supabase_Backend-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Secure Authentication](https://img.shields.io/badge/Secure_Auth-2E8B57?style=for-the-badge&logo=shield&logoColor=white)
 
 ### 📊 Data Visualization & Tools
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -75,6 +91,7 @@
 
 | Project | Description | Tech Stack | Highlights |
 |---------|-------------|-----------|-----------|
+| [🎓 EduTrack](https://github.com/ShubhamK-0904/EduTrack) | Comprehensive educational tracking and management platform with real-time analytics and performance monitoring | Kotlin, Android Studio, Jetpack Compose, Room SQLite, Supabase, JWT | Modern Jetpack Compose UI, offline-first with Room Database, JWT secure authentication, cloud sync with Supabase, real-time student performance tracking |
 | [🎓 RJ College Attendance Portal](https://github.com/ShubhamK-0904/RJAttendPortal) | Role-based attendance management system with secure login | Java Swing, PostgreSQL, JDBC | Database integration, GUI design, secure authentication |
 | [🚗 Electric Vehicle Analysis WA](https://github.com/ShubhamK-0904/Electric-Vehicle-WA) | Comprehensive EV population analysis in Washington state | PySpark, Pandas, Seaborn, Spark ML | EDA, Tesla forecasting, data insights |
 | [📊 Indian Census 2011 Analysis](https://github.com/ShubhamK-0904/IND-Census-2011--analysis) | Demographic insights from 2011 Census data | Python, Pandas, Matplotlib, Seaborn | Population analysis, state-wise comparisons, visualizations |
@@ -111,10 +128,12 @@
 ## 🎯 What I'm Good At
 
 - **Data Analysis & Visualization**: EDA, statistical analysis, creating compelling visualizations with Tableau, Power BI, Matplotlib, Seaborn
-- **Backend Development**: Python, Java, SQL, database design, API development
+- **Backend Development**: Python, Java, Node.js, SQL, database design, API development
 - **Frontend Development**: React, TypeScript, responsive design, modern UI/UX with Tailwind CSS
+- **Mobile Development**: Kotlin, Android Studio, Jetpack Compose, Room SQLite for offline-first applications
+- **Cloud & Database**: PostgreSQL, MySQL, MongoDB, SQLite, Supabase cloud platform integration
+- **Authentication & Security**: JWT token implementation, secure authentication flows
 - **Big Data Processing**: PySpark, ETL pipelines, data cleaning and transformation
-- **Full Stack Development**: Building complete applications from database to UI
 - **Problem Solving**: Writing efficient, clean, and maintainable code
 
 ---
@@ -123,9 +142,14 @@
 
 - 📊 Advanced data analytics and business intelligence
 - 🤖 Generative AI and machine learning applications
-- ⚛️ Building scalable React applications
+- ⚛️ Building scalable React applications with TypeScript
+- 📱 Android mobile development with Jetpack Compose and Kotlin
 - 🔍 Exploratory data analysis and insights generation
 - 🗂️ Database optimization and SQL performance tuning
+- 🎓 Educational technology and student analytics platforms
+- 🔐 Secure authentication with JWT tokens
+- ☁️ Cloud platform integration with Supabase
+- 💾 Offline-first mobile app development with Room Database
 
 ---
 
@@ -158,6 +182,7 @@ I'm actively looking for:
 - 💼 Full Stack Development roles
 - 📊 Data Analytics positions
 - 🔬 Data Science opportunities
+- 📱 Android Mobile Development roles
 - 🚀 Collaborative open-source projects
 - 📚 Mentorship and learning opportunities
 
