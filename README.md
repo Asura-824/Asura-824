@@ -59,13 +59,13 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 📱 Mobile Development (EduTrack)
+### 📱 Mobile Development
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Room Database](https://img.shields.io/badge/Room_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🔐 Authentication & Backend (EduTrack)
+### 🔐 Authentication & Backend
 ![JWT Tokens](https://img.shields.io/badge/JWT_Tokens-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![Supabase Backend](https://img.shields.io/badge/Supabase_Backend-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Secure Authentication](https://img.shields.io/badge/Secure_Auth-2E8B57?style=for-the-badge&logo=shield&logoColor=white)
@@ -87,18 +87,44 @@
 
 ---
 
+## 💼 Professional Experience
+
+### 🌐 **Web Development Volunteer / Frontend Developer**
+**ConnectFor – SWIS Foundation | Hyderabad, India (Remote)**  
+**October 2025 – January 2026**
+
+- **Spearheaded front-end revitalization** of the SWIS Foundation website using React and JavaScript, improving mobile engagement by 40% and reducing page load times by 35%
+- **Engineered secure backend integration** with role-based access control (RBAC), streamlining content management workflows for non-technical foundation staff
+- **Collaborated directly with non-profit stakeholders** to translate operational requirements into responsive, high-performance web solutions
+- Developed responsive UI components and implemented performance optimization techniques
+
+### 📊 **Data Analytics & Academic Projects**
+**2 Years of Hands-on Experience with Data Analysis Projects**
+- Performed comprehensive exploratory data analysis (EDA) on large real-world datasets using Python, Pandas, and SQL
+- Created data-driven dashboards and visualizations using Tableau, Power BI, Matplotlib, and Seaborn
+- Designed and optimized complex SQL queries for efficient data extraction and transformation
+- Developed Python scripts for automated data cleaning, processing, and ETL workflows
+- Conducted statistical analysis to identify trends, patterns, and actionable insights from diverse datasets
+- Worked on projects spanning Netflix user behavior analysis, COVID-19 data trends, Spotify listening patterns, and Electric Vehicle population analysis
+
+---
+
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Highlights |
-|---------|-------------|-----------|-----------|
-| [🎓 EduTrack](https://github.com/ShubhamK-0904/EduTrack) | Comprehensive educational tracking and management platform with real-time analytics and performance monitoring | Kotlin, Android Studio, Jetpack Compose, Supabase | Offline-first architecture, JWT auth, Room Database |
-| [🎓 RJ College Attendance Portal](https://github.com/ShubhamK-0904/RJAttendPortal) | Role-based attendance management system with secure login | Java Swing, PostgreSQL, JDBC | Database integration, secure authentication |
-| [🚗 Electric Vehicle Analysis WA](https://github.com/ShubhamK-0904/Electric-Vehicle-WA) | Comprehensive EV population analysis in Washington state | PySpark, Pandas, Seaborn, Spark ML | EDA, trend analysis, predictive insights |
-| [📊 Indian Census 2011 Analysis](https://github.com/ShubhamK-0904/IND-Census-2011--analysis) | Demographic insights from 2011 Census data | Python, Pandas, Matplotlib, Seaborn | Population analysis, statistical insights |
-| [🌍 SWIS Foundation](https://github.com/ShubhamK-0904/SWIS-Institute) | Educational NGO platform with responsive design | HTML, CSS, JavaScript | Responsive UI, accessibility, modern design |
-| [🎬 Netflix Data Analysis](https://github.com/ShubhamK-0904/Netflix-analysis) | User behavior and subscription analysis | Python, Pandas, Numpy, Matplotlib | Customer demographics, churn patterns |
-| [🦠 COVID-19 Data Analysis](https://github.com/ShubhamK-0904/Covid-19-analysis) | India COVID-19 case and testing analysis | Python, Pandas, Jupyter, Visualization | Trend analysis, state-wise metrics |
-| [🎵 Spotify Data Analysis](https://github.com/ShubhamK-0904/Spotify-analysis) | User listening habits and track analysis | Python, Pandas, Seaborn, Matplotlib | EDA, user behavior, music trends |
+### 📱 **Mobile Development**
+**[🎓 EduTrack](https://github.com/ShubhamK-0904/EduTrack)** - Comprehensive educational tracking and management platform with real-time analytics
+- **Tech Stack**: Kotlin, Android Studio, Jetpack Compose, Room Database, Supabase
+- **Highlights**: Offline-first architecture, JWT authentication, real-time student analytics, role-based access control
+
+### 📊 **Data Analytics**
+**[🚗 Electric Vehicle Analysis WA](https://github.com/ShubhamK-0904/Electric-Vehicle-WA)** - Comprehensive EV population analysis in Washington state with predictive insights
+- **Tech Stack**: PySpark, Pandas, Seaborn, Spark ML, Jupyter
+- **Highlights**: Large-scale EDA, trend analysis, statistical modeling, data visualization
+
+### 🌐 **Full Stack Web Development**
+**[🌍 SWIS Foundation](https://github.com/ShubhamK-0904/SWIS-Institute)** - Educational NGO platform with responsive design and secure backend
+- **Tech Stack**: React, JavaScript, HTML5, CSS3, Node.js
+- **Highlights**: Responsive UI, accessibility features, modern design, high performance
 
 ---
 
@@ -112,56 +138,37 @@
 
 ---
 
-## 💼 Professional Experience
+## 🎯 Core Competencies
 
-### 📊 **Data Analyst**
-**2 Years of Industry Experience**
-- Performed comprehensive exploratory data analysis (EDA) on large datasets using Python, Pandas, and SQL
-- Created data-driven dashboards and visualizations using Tableau and Power BI for stakeholder reporting
-- Designed and optimized SQL queries for efficient data extraction and transformation
-- Developed Python scripts for automated data cleaning, processing, and ETL workflows
-- Collaborated with cross-functional teams to translate business requirements into analytical solutions
-- Conducted statistical analysis to identify trends, patterns, and actionable business insights
-- Managed end-to-end projects from data collection through insights presentation and implementation
-
-### 🌐 **Web Development Volunteer / Frontend Developer**
-**ConnectFor – SWIS Foundation | Hyderabad, India (Remote)**  
-**October 2025 – January 2026**
-
-- **Spearheaded front-end revitalization** of the SWIS Foundation website using React and JavaScript, improving mobile engagement by 40% and reducing page load times by 35%
-- **Engineered secure backend integration** with role-based access control (RBAC), streamlining content management workflows for non-technical foundation staff while bolstering platform security
-- **Collaborated directly with non-profit stakeholders** via ConnectFor to translate operational requirements into responsive, high-performance web solutions
-- Developed responsive UI components with modern CSS frameworks ensuring cross-device compatibility
-- Implemented performance optimization techniques resulting in significant improvements in user experience metrics
-- Delivered production-ready code with comprehensive documentation and best practices
+- **Data Analysis**: EDA, statistical analysis, Tableau, Power BI, Pandas, NumPy, Matplotlib, Seaborn
+- **Backend Development**: Python, Java, Node.js, SQL, database design, API development, PySpark ETL
+- **Frontend Development**: React, TypeScript, responsive design, Tailwind CSS, modern UI/UX
+- **Mobile Development**: Kotlin, Android Studio, Jetpack Compose, Room SQLite, offline-first applications
+- **Cloud & Databases**: PostgreSQL, MySQL, MongoDB, SQLite, Supabase integration, secure authentication with JWT
 
 ---
 
-## 🎯 What I'm Good At
-
-- **Data Analysis & Visualization**: EDA, statistical analysis, creating compelling visualizations with Tableau, Power BI, Matplotlib, Seaborn
-- **Backend Development**: Python, Java, Node.js, SQL, database design, API development
-- **Frontend Development**: React, TypeScript, responsive design, modern UI/UX with Tailwind CSS
-- **Mobile Development**: Kotlin, Android Studio, Jetpack Compose, Room SQLite for offline-first applications
-- **Cloud & Database**: PostgreSQL, MySQL, MongoDB, SQLite, Supabase cloud platform integration
-- **Authentication & Security**: JWT token implementation, secure authentication flows
-- **Big Data Processing**: PySpark, ETL pipelines, data cleaning and transformation
-- **Problem Solving**: Writing efficient, clean, and maintainable code
-
----
-
-## 💡 Recent Focus Areas
+## 💡 Current Focus
 
 - 📊 Advanced data analytics and business intelligence
-- 🤖 Generative AI and machine learning applications
-- ⚛️ Building scalable React applications with TypeScript
-- 📱 Android mobile development with Jetpack Compose and Kotlin
-- 🔍 Exploratory data analysis and insights generation
-- 🗂️ Database optimization and SQL performance tuning
-- 🎓 Educational technology and student analytics platforms
-- 🔐 Secure authentication with JWT tokens
-- ☁️ Cloud platform integration with Supabase
-- 💾 Offline-first mobile app development with Room Database
+- ⚛️ Scalable React applications with TypeScript
+- 📱 Android mobile development with Jetpack Compose
+- 🔐 Secure authentication and data protection
+- ☁️ Cloud-based solutions with Supabase
+- 🎓 Educational technology platforms
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamK-0904&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamK-0904&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamK-0904&theme=dark&border=2&border_radius=10" alt="GitHub Streak Stats" width="60%"/>
+</p>
 
 ---
 
