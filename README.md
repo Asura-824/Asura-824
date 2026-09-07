@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&center=true&lines=Data+Analyst+%7C+Python+%26+SQL+Enthusiast;Full+Stack+Developer+%7C+React+%26+TypeScript;Building+Data-Driven+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&center=true&lines=Data+Analyst+%7C+Python+%26+SQL+Enthusiast;Full+Stack+Developer+%7C+React+%26+TypeScript;Mobile+Dev+%7C+Kotlin+%26+Android" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -91,13 +91,13 @@
 
 | Project | Description | Tech Stack | Highlights |
 |---------|-------------|-----------|-----------|
-| [🎓 EduTrack](https://github.com/ShubhamK-0904/EduTrack) | Comprehensive educational tracking and management platform with real-time analytics and performance monitoring | Kotlin, Android Studio, Jetpack Compose, Room SQLite, Supabase, JWT | Modern Jetpack Compose UI, offline-first with Room Database, JWT secure authentication, cloud sync with Supabase, real-time student performance tracking |
-| [🎓 RJ College Attendance Portal](https://github.com/ShubhamK-0904/RJAttendPortal) | Role-based attendance management system with secure login | Java Swing, PostgreSQL, JDBC | Database integration, GUI design, secure authentication |
-| [🚗 Electric Vehicle Analysis WA](https://github.com/ShubhamK-0904/Electric-Vehicle-WA) | Comprehensive EV population analysis in Washington state | PySpark, Pandas, Seaborn, Spark ML | EDA, Tesla forecasting, data insights |
-| [📊 Indian Census 2011 Analysis](https://github.com/ShubhamK-0904/IND-Census-2011--analysis) | Demographic insights from 2011 Census data | Python, Pandas, Matplotlib, Seaborn | Population analysis, state-wise comparisons, visualizations |
+| [🎓 EduTrack](https://github.com/ShubhamK-0904/EduTrack) | Comprehensive educational tracking and management platform with real-time analytics and performance monitoring | Kotlin, Android Studio, Jetpack Compose, Supabase | Offline-first architecture, JWT auth, Room Database |
+| [🎓 RJ College Attendance Portal](https://github.com/ShubhamK-0904/RJAttendPortal) | Role-based attendance management system with secure login | Java Swing, PostgreSQL, JDBC | Database integration, secure authentication |
+| [🚗 Electric Vehicle Analysis WA](https://github.com/ShubhamK-0904/Electric-Vehicle-WA) | Comprehensive EV population analysis in Washington state | PySpark, Pandas, Seaborn, Spark ML | EDA, trend analysis, predictive insights |
+| [📊 Indian Census 2011 Analysis](https://github.com/ShubhamK-0904/IND-Census-2011--analysis) | Demographic insights from 2011 Census data | Python, Pandas, Matplotlib, Seaborn | Population analysis, statistical insights |
 | [🌍 SWIS Foundation](https://github.com/ShubhamK-0904/SWIS-Institute) | Educational NGO platform with responsive design | HTML, CSS, JavaScript | Responsive UI, accessibility, modern design |
-| [🎬 Netflix Data Analysis](https://github.com/ShubhamK-0904/Netflix-analysis) | User behavior and subscription analysis | Python, Pandas, Numpy, Matplotlib | Customer demographics, churn patterns, insights |
-| [🦠 COVID-19 Data Analysis](https://github.com/ShubhamK-0904/Covid-19-analysis) | India COVID-19 case and testing analysis | Python, Pandas, Jupyter, Visualization | Trend analysis, state-wise insights, statistical analysis |
+| [🎬 Netflix Data Analysis](https://github.com/ShubhamK-0904/Netflix-analysis) | User behavior and subscription analysis | Python, Pandas, Numpy, Matplotlib | Customer demographics, churn patterns |
+| [🦠 COVID-19 Data Analysis](https://github.com/ShubhamK-0904/Covid-19-analysis) | India COVID-19 case and testing analysis | Python, Pandas, Jupyter, Visualization | Trend analysis, state-wise metrics |
 | [🎵 Spotify Data Analysis](https://github.com/ShubhamK-0904/Spotify-analysis) | User listening habits and track analysis | Python, Pandas, Seaborn, Matplotlib | EDA, user behavior, music trends |
 
 ---
@@ -112,16 +112,28 @@
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Professional Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamK-0904&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamK-0904&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" width="48%"/>
-</p>
+### 📊 **Data Analyst**
+**2 Years of Industry Experience**
+- Performed comprehensive exploratory data analysis (EDA) on large datasets using Python, Pandas, and SQL
+- Created data-driven dashboards and visualizations using Tableau and Power BI for stakeholder reporting
+- Designed and optimized SQL queries for efficient data extraction and transformation
+- Developed Python scripts for automated data cleaning, processing, and ETL workflows
+- Collaborated with cross-functional teams to translate business requirements into analytical solutions
+- Conducted statistical analysis to identify trends, patterns, and actionable business insights
+- Managed end-to-end projects from data collection through insights presentation and implementation
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamK-0904&theme=dark&border=2&border_radius=10" alt="GitHub Streak Stats" width="60%"/>
-</p>
+### 🌐 **Web Development Volunteer / Frontend Developer**
+**ConnectFor – SWIS Foundation | Hyderabad, India (Remote)**  
+**October 2025 – January 2026**
+
+- **Spearheaded front-end revitalization** of the SWIS Foundation website using React and JavaScript, improving mobile engagement by 40% and reducing page load times by 35%
+- **Engineered secure backend integration** with role-based access control (RBAC), streamlining content management workflows for non-technical foundation staff while bolstering platform security
+- **Collaborated directly with non-profit stakeholders** via ConnectFor to translate operational requirements into responsive, high-performance web solutions
+- Developed responsive UI components with modern CSS frameworks ensuring cross-device compatibility
+- Implemented performance optimization techniques resulting in significant improvements in user experience metrics
+- Delivered production-ready code with comprehensive documentation and best practices
 
 ---
 
